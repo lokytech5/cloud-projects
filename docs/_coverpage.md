@@ -1,7 +1,12 @@
-# Cloud Architecture Project
+# Cloud Architecture Project <small>with AWS</small>
 
-Welcome to the detailed documentation and demonstration of the cloud architecture project for Standard International College.
+> Detailed documentation and demonstration of a cloud project
 
-Your journey to understanding cloud architecture starts here.
+- Uses Cases
+- Assing Users and Roles
+- Architecture Design
+- IaC Terraform
+- Cost Optmization
 
-[View Docs](README.md) [Go to GitHub](https://github.com/your-repo)
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Get Started](#home)
