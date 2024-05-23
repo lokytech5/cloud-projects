@@ -14,6 +14,7 @@ Standard International College is a high school located in the heart of Lagos St
 ## List of Services
 - **AWS Cognito**: User authentication and access control.
 - **AWS EC2 / Elastic Beanstalk**: Hosting the web application.
+- **AWS Lambda**: Serverless functions for backend processing and APIs.
 - **AWS RDS**: Database management for student records.
 - **AWS S3**: Storage for static files.
 - **AWS Glue and QuickSight**: Data analytics and reporting.
@@ -27,3 +28,18 @@ Standard International College is a high school located in the heart of Lagos St
 - Security measures for protecting sensitive data.
 - Monitoring and logging setup.
 - Cost management and optimization strategies.
+
+## Key Components
+
+- **EC2 / Elastic Beanstalk**: Scalable web application hosting.
+- **AWS Lambda**: Serverless functions for efficient compute.
+- **AWS Cognito**: Secure user authentication and authorization.
+- **AWS RDS**: Managed relational database service.
+- **AWS S3**: Object storage for static files and backups.
+- **AWS Glue and QuickSight**: Data integration and visualization.
+- **AWS CodePipeline**: CI/CD for automated deployments.
+- **Terraform**: Infrastructure as Code for automated provisioning.
+- **API Gateway**: Managing and securing APIs.
+- **Security**: Implementing security best practices with WAF, GuardDuty, and IAM.
+- **Monitoring and Logging**: Using CloudWatch and CloudTrail for performance monitoring and logging.
+- **Cost Management**: Optimizing AWS costs with Cost Explorer and Budgets.

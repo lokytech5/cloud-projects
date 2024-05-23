@@ -5,6 +5,7 @@
 * [Infrastructure as Code (IaC)](iac.md)
 * [CI/CD Pipeline](ci-cd.md)
 * [API Documentation](api.md)
+* [Serverless Functions (Lambda)](lambda.md)
 * [Security Measures](security.md)
 * [Monitoring and Logging](monitoring.md)
 * [Cost Management](cost.md)
