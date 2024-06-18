@@ -11,8 +11,8 @@ Click on any project title to view the detailed documentation. Each project incl
     - **Tech Stack**: Node.js, TypeScript, Docker, AWS EC2.
     - **Key Concepts**: Containerization, EC2 setup, Docker deployment.
 
-
-
 ---
 
-Feel free to explore the projects and understand the different ways AWS services can be utilized to solve real-world problems Thanks 
+Feel free to explore the projects and understand the different ways AWS services can be used to solve real-world problems. 
+
+Thank you for visiting!

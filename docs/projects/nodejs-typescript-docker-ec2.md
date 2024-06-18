@@ -1,4 +1,6 @@
 # Deploying a Node.js TypeScript Backend with Docker to EC2
+
+
 ## Core AWS Services Used
 - **Compute**: EC2
 

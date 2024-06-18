@@ -1,5 +1,3 @@
 * [Home](home.md)
 * [Projects](projects.md)
-  * [Building a Serverless Web Application](projects/serverless-web-application.md)
   * [Deploying a Node.js TypeScript Backend with Docker to EC2](projects/nodejs-typescript-docker-ec2.md)
-  * [Setting up and Using Amazon Cognito for Authentication and Authorization for a Flutter Mobile Application](projects/cognito-flutter-auth.md)
