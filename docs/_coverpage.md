@@ -1,12 +1,13 @@
-# Cloud Architecture Project <small>with AWS</small>
+# Cloud Architecture Projects <small>with AWS</small>
 
-> Detailed documentation and demonstration of a cloud project
+> Detailed documentation, demonstration, Architecture Diagram and solutions of a cloud project using AWS services
 
-- Uses Cases
-- Assing Users and Roles
-- Architecture Design
-- IaC Terraform
-- Cost Optmization
+- Core AWS Services Uses
+- Projects Overview
+- Setup and Configuration
+- Architectural Patterns
+- Key Learning
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#home)
+
