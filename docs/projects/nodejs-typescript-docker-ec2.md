@@ -23,7 +23,8 @@
 ### Introduction
 - **Purpose**: This backend project is a fully functional application that generates technical documentation for users. It includes authentication and authorization for users, allows users to add and manage projects, and provides an AI feature for generating documentation. The project aims to showcase the deployment process of a Node.js backend application using Docker and AWS EC2.
 - **Tech Stack Used**: Node.js, TypeScript, Mongodb, Docker, AWS EC2.
-- **GitHub Link**: [Node.js TypeScript Docker EC2 Repository](https://github.com/yourusername/nodejs-typescript-docker-ec2)
+- **GitHub Link**: [Node.js TypeScript Docker EC2 Repository](https://github.com/lokytech5/techdoc)
+- **Live Link**:[Application Live Link](https://techdoc-iota.vercel.app/)
 
 
 ### Architecture Diagram and Patterns Used
@@ -36,15 +37,19 @@
 ### Project Setup and Configuration
 - **Setup Instructions**:
   - **Docker Setup**: 
-    - Create a Dockerfile and build Docker images.
+    - Created and configured a Dockerfile for Project setup.
     - Write a docker-compose.yml for multi-container setups.
+    - ![GIPHY](https://media.giphy.com/media/Ynxgi9HMVVHw97XhTi/giphy.gif)
   - **EC2 Setup**:
     - Launch an EC2 instance using the AWS Management Console.
     - Configure inbound rules to allow HTTP and SSH access.
     - SSH into the instance and install Docker.
     - Pull and run Docker images on the EC2 instance.
+    - ![GIPHY](https://media.giphy.com/media/5VWkDJf883aSeXnKde/giphy.gif)
+
   - **Deployment**:
     - Deploy Docker containers on EC2.
+    - ![GIPHY](https://media.giphy.com/media/wH4LkHFEdXeSVqSzun/giphy.gif)
 
 ### Key Learnings
 - Understanding the deployment process using Docker and EC2.
