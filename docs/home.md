@@ -20,7 +20,7 @@ My name is Lokosman, a cloud architect passionate about sharing knowledge and us
 
 ## Current Featured Projects
 
-1. **[Deploying a Node.js TypeScript Backend with Docker to EC2](nodejs-typescript-docker-ec2.md)**
+1. **[Deploying a Node.js TypeScript Backend with Docker to EC2](projects/nodejs-typescript-docker-ec2.md)**
 
 ---
 
